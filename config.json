@@ -1,0 +1,6 @@
+{
+  "app_name": "My App",
+  "version": "1.0.0",
+  "environment": "development",
+  "port": 3000
+}
